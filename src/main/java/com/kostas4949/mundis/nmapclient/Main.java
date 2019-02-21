@@ -1,3 +1,4 @@
+package com.kostas4949.mundis.nmapclient;
 import java.util.*;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

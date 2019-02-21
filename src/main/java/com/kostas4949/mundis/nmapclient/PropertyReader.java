@@ -1,3 +1,4 @@
+package com.kostas4949.mundis.nmapclient;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;

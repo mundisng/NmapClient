@@ -1,3 +1,4 @@
+package com.kostas4949.mundis.nmapclient;
 import java.util.concurrent.ExecutorService;
 /**
  * Keep tracks of which thread has which periodic job

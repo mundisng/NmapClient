@@ -1,3 +1,4 @@
+package com.kostas4949.mundis.nmapclient;
 import java.util.concurrent.ConcurrentLinkedQueue;
 /**
  * Thread that reads and prints the queue for results.
